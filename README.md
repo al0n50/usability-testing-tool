@@ -7,3 +7,6 @@ This Streamlit app helps automate the usability testing process, including parti
 1. Install requirements:
    ```bash
    pip install streamlit pandas
+2. Run the app:
+   ```bash
+   streamlit run project1.py
