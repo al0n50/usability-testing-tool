@@ -1,0 +1,5 @@
+# Participant data is collected locally and never committed
+data/
+__pycache__/
+.pytest_cache/
+.venv/
